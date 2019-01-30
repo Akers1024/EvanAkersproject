@@ -1,7 +1,55 @@
-body {
-     background-color: rgb(37, 71, 184);
+.flex-container {
+  display: inline-block;
+  align-items: center; 
+  width: 100%;
+  height: 100px;
+ background-color: #000000;
+ margin: 0;
+ 
 }
 
-h1 {
-    color: rgb(197, 13, 13);
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border: 5px solid #000000;
+    width: 200px;
+    height: 250px;
+    
 }
+
+body {
+    background-color: #81ecec;
+}
+
+header {
+  font-size: 50px;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: underline;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+.bio {
+    text-align: center;
+}
+
+.facts {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+    
+    
+
+    
