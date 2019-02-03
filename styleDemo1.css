@@ -1,3 +1,4 @@
+
 .flex-container {
   display: inline-block;
   align-items: center; 
@@ -37,19 +38,35 @@ footer {
 }
 
 h2 {
-    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
 }
 
 .bio {
+    box-sizing: border-box;
+    border: 1px solid black;
     text-align: center;
+    width: 842px;
+    height: 134px;
 }
 
 .facts {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto; 
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 416px;
+    height: 191px;
+    
+}
+
+.experience {
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 216px;
+    height: 112px;
+    
+
 }
     
-    
+ 
 
     
