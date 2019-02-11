@@ -1,6 +1,6 @@
 'use strict'
 
-//Questions
+//Questions , Hey Evan! Don't forget to ask about how to convert this to a function.
 var day = (', are you having a good day?');
 var vaction = ('Have I been outside the U.S?');
 var statelived = ('Have I lived outside washington?');
